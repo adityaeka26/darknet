@@ -64,6 +64,7 @@ uselib
 uselib_track
 darknet
 vcpkg/
+
 avengers.avi
 avengers.mp4
 barca.avi
@@ -74,3 +75,5 @@ results.avi
 results.mp4
 startup.avi
 startup.mp4
+
+yolov4.conv.137
