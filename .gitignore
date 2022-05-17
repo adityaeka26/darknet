@@ -66,3 +66,6 @@ darknet
 vcpkg/
 
 yolov4.conv.137
+pklot/test/
+pklot/train/
+pklot/valid/
