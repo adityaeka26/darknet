@@ -1,5 +1,6 @@
 classes = 2
 train = pklot/train.txt
 valid = pklot/valid.txt
+test = pklot/test.txt
 names = pklot/obj.names
 backup = backup/
